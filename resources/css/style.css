@@ -12,3 +12,11 @@ body {
 video {
     object-fit: contain;
 }
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+h3 {
+  font-size: 21px;
+  color: gray;
+}
