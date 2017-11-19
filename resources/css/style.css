@@ -1,9 +1,11 @@
 body {
     font-family: Verdana, sans-serif;
-    font-size: 50px;
     text-align: center;
     background-color: black;
     color: white;
+}
+h1 {
+font-size: 50px;
 }
 .soon{
   color: aquamarine;
