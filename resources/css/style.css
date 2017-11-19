@@ -9,3 +9,6 @@ body {
   color: aquamarine;
   font-size: 16px
 }
+video {
+    object-fit: contain;
+}
